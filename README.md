@@ -1,1 +1,1 @@
-# Car-Data-Segmentation-with-Hierarchical-clustering
+# Car Data Segmentation with Hierarchical Clustering
